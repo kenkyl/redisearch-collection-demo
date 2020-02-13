@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Brothers and Sisters",
+        "artist": "Allman Brothers",
+        "year": 1973,
+        "genre": ["rock", "southern rock", "blues rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Aja",
+        "artist": "Steely Dan",
+        "year": 1977,
+        "genre": ["rock", "pop"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Can't Buy a Thrill",
+        "artist": "Steely Dan",
+        "year": 1972,
+        "genre": ["rock", "pop"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Deguello",
+        "artist": "ZZ Top",
+        "year": 1979,
+        "genre": ["rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "American Beauty",
+        "artist": "Grateful Dead",
+        "year": 1970,
+        "genre": ["rock", "psychedelic rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Second Helping",
+        "artist": "Lynard Skynard",
+        "year": 1974,
+        "genre": ["rock", "southern rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "The Joker",
+        "artist": "Steve Biller Band",
+        "year": 1973,
+        "genre": ["rock", "blues rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Book of Dreams",
+        "artist": "Steve Biller Band",
+        "year": 1977,
+        "genre": ["rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Rumours",
+        "artist": "Fleetwood Mac",
+        "year": 1977,
+        "genre": ["rock", "pop"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Where We All Belong",
+        "artist": "Marshall Tucker Band",
+        "year": 1974,
+        "genre": ["rock", "southern rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Sticky Fingers",
+        "artist": "Rolling Stones",
+        "year": 1971,
+        "genre": ["rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    },
+    {
+        "title": "Who Are You",
+        "artist": "The Who",
+        "year": 1978,
+        "genre": ["rock", "hard rock"],
+        "stats": {
+            "num_plays": 0,
+            "favorite": false,
+            "notes": ""
+        }
+    }
+]
